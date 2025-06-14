@@ -1,7 +1,7 @@
 //
 //  main.c
 //  Deep Learning kernel finish
-//
+//  
 //  Created by Артем Хорьков on 23.09.2023.
 //
 #includec <std
@@ -169,7 +169,7 @@ int main(int argc, const char * argv[]) {
         }
         printf("\n");
         
-       
+      // test 
 
     }
     printf("\n");
